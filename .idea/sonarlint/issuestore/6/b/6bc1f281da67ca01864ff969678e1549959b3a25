@@ -1,7 +1,0 @@
-
-ypython:S5890-"aAssign to "app_ctx" a value of type "AppContext" instead of "LocalProxy" or update its type hint.(ÎÔ¥»
-}python:S58900"`Assign to "current_app" a value of type "Flask" instead of "LocalProxy" or update its type hint.(äÃÃ¨ùÿÿÿÿ
-wpython:S58903"_Assign to "g" a value of type "_AppCtxGlobals" instead of "LocalProxy" or update its type hint.(ó›ˆ„
-python:S5890@"iAssign to "request_ctx" a value of type "RequestContext" instead of "LocalProxy" or update its type hint.(Á­ë‚
-vpython:S5890C"^Assign to "request" a value of type "Request" instead of "LocalProxy" or update its type hint.(å¦·ø
-€python:S5890F"cAssign to "session" a value of type "SessionMixin" instead of "LocalProxy" or update its type hint.(¡ê®ªıÿÿÿÿ
